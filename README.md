@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello fellow Coders 👋
+<p style ="text-indent: 50px;">
+    My name is Gia Madonna and I am fresh into the world of Coding. Thanks to the help of UNLV's Fullstack Development bootcamp, I have become aqquainted with several coding languages, some of which I hope to use to help your company, and my skills, progress! There is no doubt that I can do anything I put my mind to, so please, give my mind a shot and you won't be disappointed. 
+</p>
 
-<!--
-**GiaMadonna1/GiaMadonna1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Storefront application, as well as a personal Website. 
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me: Coming Soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages/Skills
+
+
