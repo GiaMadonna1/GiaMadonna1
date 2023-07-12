@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on a Storefront application, as well as a personal Website. 
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me:
-     <br>    🔌 LinkedIn = https://www.linkedin.com/in/gia-madonna-8765b81b5/
-     <br>    📝 Email = 
+     <br>  <pre>  🔌 LinkedIn = https://www.linkedin.com/in/gia-madonna-8765b81b5/
+     <br>  <pre> 📝 Email = 
 
 
 ### Languages/Skills
