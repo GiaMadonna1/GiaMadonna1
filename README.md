@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me:
      <br>  <pre>  🔌 LinkedIn = https://www.linkedin.com/in/gia-madonna-8765b81b5/ </pre>
-       <pre> 📝 Email = 
+       <pre> 📝 Email = gmadonna724@gmail.com
 
 
 ### Languages/Skills
