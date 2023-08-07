@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ### Hello fellow Coders 👋
 <p style ="text-indent: 50px;">
     My name is Gia Madonna and I am fresh into the world of Coding. Thanks to the help of UNLV's Fullstack Development bootcamp, I have become aqquainted with several coding languages, some of which I hope to use to help your company, and my skills, progress! There is no doubt that I can do anything I put my mind to, so please, give my mind a shot and you won't be disappointed. 
