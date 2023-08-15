@@ -2,7 +2,7 @@
 
 ### Hello fellow Coders 👋
 <p style ="text-indent: 50px;">
-    My name is Gia Madonna and I am fresh into the world of Coding. Thanks to the help of UNLV's Fullstack Development bootcamp, I have become aqquainted with several coding languages, which I will use to help your company, and my skills, progress! There is no doubt that I can do anything I put my mind to, so give my mind a shot and you won't be disappointed. 
+    My name is Gia Madonna and I am fresh into the world of Coding. Thanks to the help of UNLV's Fullstack Development bootcamp, I have become aqquainted with several coding languages— which I will use to help your company, and my skills, progress! There is no doubt that I can do anything I put my mind to, so give my mind a shot and you won't be disappointed. 
 </p>
 
 
